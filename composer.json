@@ -1,0 +1,16 @@
+{
+    "name": "ludobonnet/indeed-php",
+    "description": "Indeed PHP composer package",
+    "require": {
+        "php": "5.3"
+    },
+    "require-dev": {
+        "php": "5.3"
+    },
+    "authors": [
+        {
+            "name": "Ludovic Bonnet",
+            "email": "lbonnet@bazilik.fr"
+        }
+    ]
+}
